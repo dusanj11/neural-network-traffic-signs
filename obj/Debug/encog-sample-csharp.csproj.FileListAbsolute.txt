@@ -1,0 +1,21 @@
+C:\Users\Dusan\Desktop\nuronska\2\encog-sample-csharp-master\encog-sample-csharp\bin\Debug\encog-sample-csharp.exe.config
+C:\Users\Dusan\Desktop\nuronska\2\encog-sample-csharp-master\encog-sample-csharp\bin\Debug\encog-sample-csharp.exe
+C:\Users\Dusan\Desktop\nuronska\2\encog-sample-csharp-master\encog-sample-csharp\bin\Debug\encog-sample-csharp.pdb
+C:\Users\Dusan\Desktop\nuronska\2\encog-sample-csharp-master\encog-sample-csharp\bin\Debug\encog-core-cs.dll
+C:\Users\Dusan\Desktop\nuronska\2\encog-sample-csharp-master\encog-sample-csharp\obj\Debug\encog-sample-csharp.csprojResolveAssemblyReference.cache
+C:\Users\Dusan\Desktop\nuronska\2\encog-sample-csharp-master\encog-sample-csharp\obj\Debug\encog-sample-csharp.exe
+C:\Users\Dusan\Desktop\nuronska\2\encog-sample-csharp-master\encog-sample-csharp\obj\Debug\encog-sample-csharp.pdb
+C:\Users\jelac\Desktop\nuronska 2\2\encog-sample-csharp-master\encog-sample-csharp\bin\Debug\encog-sample-csharp.exe.config
+C:\Users\jelac\Desktop\nuronska 2\2\encog-sample-csharp-master\encog-sample-csharp\obj\Debug\encog-sample-csharp.exe
+C:\Users\jelac\Desktop\nuronska 2\2\encog-sample-csharp-master\encog-sample-csharp\obj\Debug\encog-sample-csharp.pdb
+C:\Users\jelac\Desktop\nuronska 2\2\encog-sample-csharp-master\encog-sample-csharp\bin\Debug\encog-sample-csharp.exe
+C:\Users\jelac\Desktop\nuronska 2\2\encog-sample-csharp-master\encog-sample-csharp\bin\Debug\encog-sample-csharp.pdb
+C:\Users\jelac\Desktop\nuronska 2\2\encog-sample-csharp-master\encog-sample-csharp\bin\Debug\encog-core-cs.dll
+C:\Users\jelac\Desktop\nuronska 2\2\encog-sample-csharp-master\encog-sample-csharp\obj\Debug\encog-sample-csharp.csprojResolveAssemblyReference.cache
+C:\Users\Dusan\Desktop\nuronska 2\2\encog-sample-csharp-master\encog-sample-csharp\bin\Debug\encog-sample-csharp.exe.config
+C:\Users\Dusan\Desktop\nuronska 2\2\encog-sample-csharp-master\encog-sample-csharp\obj\Debug\encog-sample-csharp.exe
+C:\Users\Dusan\Desktop\nuronska 2\2\encog-sample-csharp-master\encog-sample-csharp\obj\Debug\encog-sample-csharp.pdb
+C:\Users\Dusan\Desktop\nuronska 2\2\encog-sample-csharp-master\encog-sample-csharp\bin\Debug\encog-sample-csharp.exe
+C:\Users\Dusan\Desktop\nuronska 2\2\encog-sample-csharp-master\encog-sample-csharp\bin\Debug\encog-sample-csharp.pdb
+C:\Users\Dusan\Desktop\nuronska 2\2\encog-sample-csharp-master\encog-sample-csharp\bin\Debug\encog-core-cs.dll
+C:\Users\Dusan\Desktop\nuronska 2\2\encog-sample-csharp-master\encog-sample-csharp\obj\Debug\encog-sample-csharp.csprojResolveAssemblyReference.cache
